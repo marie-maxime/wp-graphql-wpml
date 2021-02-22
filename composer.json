@@ -1,0 +1,14 @@
+{
+    "name": "wp-graphql/wpml",
+    "description": "wp-graphql extention for wpml",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Marie-Maxime Tanguay",
+            "email": "marie-maxime@okam.ca"
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.9"
+    }
+}
