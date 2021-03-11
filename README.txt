@@ -1,7 +1,7 @@
 === WP GraphQL WPML Extension ===
 Contributors: rburgst
-Stable tag: 0.0.1
-Tested up to: 5.3.2
+Stable tag: 1.0.1
+Tested up to: 5.6.1
 Requires at least: 4.9
 Requires PHP: 7.0
 Requires WPGraphQL: 0.8.0+
